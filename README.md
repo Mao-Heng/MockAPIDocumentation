@@ -24,7 +24,7 @@ weatherreport/{cityname}
 | precipitation | The predicted chance of precipitation in the chosen city for the next hour. | Integer |
 
 ### Example Request
-```GET https://foo.bar/weatherreport?cityname=cupertino&temperature=rue&precipitation=true```
+```GET https://foo.bar/weatherreport?cityname=cupertino&temperature=true&precipitation=true```
 
 ### Example Response
 ```

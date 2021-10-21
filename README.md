@@ -1,4 +1,4 @@
-#MockAPIReferenceDocumentation
+# MockAPIReferenceDocumentation
 A simple mock API reference doc I made for practice and learning purposes.
 
 ## WeatherReport

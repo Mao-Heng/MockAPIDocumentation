@@ -13,8 +13,8 @@ weatherreport/{cityname}
 | Parameter name  | Required/Optional | Description                         | Type  |
 | --- | --- | --- | --- |
 | {cityname} | Required | The name of the city you want to look up. | String
-| temperature   | Optional  | If you include temperature, the response will include the predicted temperature (in Fahrenheit). | Boolean  |
-| precipitation | Optional  | If you include precipitation, the response will include the chance for precipitation. | Boolean |
+| {temperature}   | Optional  | If you include temperature, the response will include the predicted temperature (in Fahrenheit). | Boolean  |
+| {precipitation} | Optional  | If you include precipitation, the response will include the chance for precipitation. | Boolean |
 
 ### Response
 | Response name  | Description                         | Type |

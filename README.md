@@ -12,8 +12,8 @@ weatherreport/{cityname}
 ### Options
 | Option name     | Description                         |
 | --- | --- |
-| temperature   | If you   |
-| precipitation | Content Cell  |
+| temperature   | If you include temperature, the response will include the predicted temperature in Farenheit. |
+| precipitation | If you include precipitation, the response will include the chance for precipitation. |
 
 ### Response
 

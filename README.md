@@ -6,7 +6,7 @@ weatherreport/{cityname}
 
 ### Parameters
 | Parameter name  | Required/Optional | Description                         |
-| --- | --- |
+| --- | --- | --- |
 | {cityname} | Required | The name of the city you want to look up | 
 | temperature   | Optional  | If you include temperature, the response will include the predicted temperature (in Fahrenheit). |
 | precipitation | Optional  | If you include precipitation, the response will include the chance for precipitation. |

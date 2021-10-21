@@ -1,6 +1,8 @@
 # MockAPIReferenceDocumentation
 A simple mock API reference doc I made for practice and learning purposes.
 
+
+
 ## WeatherReport
 This endpoint provides the weather forecast for the next hour of a specific city in the US.
 
